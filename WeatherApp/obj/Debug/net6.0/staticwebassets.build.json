@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RkMznve6A7LuL3tmndrSTiQTk74t+FmARt3mvS443N0=",
+  "Hash": "V/1Zqk+BGB4i7juaM7d70tQprhTsz1Jjf4jlm8Uxui8=",
   "Source": "WeatherApp",
   "BasePath": "_content/WeatherApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WeatherApp\\wwwroot",
       "Source": "WeatherApp",
-      "ContentRoot": "D:\\Projects\\Github\\WeatherApp\\WeatherApp\\WeatherApp\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Github\\WeatherApp\\WeatherApp\\wwwroot\\",
       "BasePath": "_content/WeatherApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projects\\Github\\WeatherApp\\WeatherApp\\WeatherApp\\wwwroot\\StyleSheet.css",
+      "Identity": "D:\\Projects\\Github\\WeatherApp\\WeatherApp\\wwwroot\\StyleSheet.css",
       "SourceId": "WeatherApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Github\\WeatherApp\\WeatherApp\\WeatherApp\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Github\\WeatherApp\\WeatherApp\\wwwroot\\",
       "BasePath": "_content/WeatherApp",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",
