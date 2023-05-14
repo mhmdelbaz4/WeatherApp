@@ -40,7 +40,7 @@ namespace WeatherApp.Controllers
 
         [Route("/")]
         public IActionResult Index()
-        {                        
+        {     
             return View(_cities);
         }
 
